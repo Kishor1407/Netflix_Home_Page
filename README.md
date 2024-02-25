@@ -1,5 +1,4 @@
-Netflix Homepage Clone
-You can visit this website at https://kishor-netflix-homepage.netlify.app/
+
 Welcome to the Netflix Homepage Clone repository. In this project, I've replicated the look and feel of the Netflix 
 homepage using HTML and CSS. The goal was to practice web development skills by recreating a well-known
 website.
